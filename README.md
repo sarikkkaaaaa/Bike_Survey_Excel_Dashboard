@@ -10,16 +10,6 @@ The objective of this project is to analyse customer survey data and understand 
 
 The analysis explores customer demographics, income levels, marital status, number of children, commute distance, car ownership, and regional patterns to identify trends that can support business decision-making.
 
-## 📌 Key Performance Indicators (KPIs)
-
-The dashboard includes five key metrics:
-
-- **Total Survey Records:** 1,026
-- **Bikes Purchased:** 495
-- **Bikes Not Purchased:** 531
-- **Purchase Rate:** 48.25%
-- **Non-Purchase Rate:** 51.75%
-
 ## 📈 Dashboard Analysis
 
 The dashboard covers five major areas:
@@ -38,14 +28,6 @@ Investigates the relationship between customers' commute distances and bike purc
 
 ### 5. Occupational Analysis
 Explores customer distribution across different occupational groups and income categories.
-
-## 💡 Key Insights
-
-- Male customers account for a higher number of bike purchases than female customers.
-- Single customers without children represent an important purchasing segment.
-- Bike purchases are higher among customers with shorter commute distances.
-- North America records the highest number of bike purchases across the regions analysed.
-- Middle-income customer groups contribute significantly to bike purchases.
 
 ## 🛠️ Tools & Techniques Used
 
